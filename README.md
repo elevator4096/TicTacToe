@@ -1,5 +1,5 @@
 # TicTacToe
-Implementation of a TicTacToe KI
+Implementation of a TicTacToe game
 
 My first "game" a nearly unbeatable TicTacToe written back when I was a
 child and had no clue of alpha beta pruning and just manually searched
