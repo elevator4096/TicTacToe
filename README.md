@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe [![License](https://img.shields.io/badge/license-Public_domain-red.svg)](https://wiki.creativecommons.org/wiki/Public_domain)
 Implementation of a TicTacToe game
 
 My first "game" a nearly unbeatable TicTacToe written back when I was a
